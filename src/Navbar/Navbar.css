@@ -1,0 +1,21 @@
+.logo img{
+
+width: 95px;
+height: 86px;
+left: 673px;
+
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   margin-top: 10px;
+}
+
+.left, .right{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 40px;
+}

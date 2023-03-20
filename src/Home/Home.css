@@ -1,0 +1,36 @@
+.home img{
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    opacity: .7;
+}
+
+.home .content{
+    position: absolute;
+    top: 270px;
+    right: 72px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-end; */
+}
+
+.home .content h1{
+    font-family: Qalisso;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0.15em;
+    color: white;
+    
+}
+
+.home .content p{
+    font-family: Gabriela;
+font-size: 24px;
+font-weight: 400;
+line-height: 31px;
+color: white;
+/* letter-spacing: 0.0em; */
+
+
+}
